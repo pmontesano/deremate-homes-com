@@ -1,3 +1,3 @@
-# mercadolibre.com
+# Deremate.com
 
-[demo](http://mercadolibre.github.io/homes-com/homecom.html)
+[demo](http://pmontesano.github.io/deremate-homes-com/homecom.html)
